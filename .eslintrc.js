@@ -26,6 +26,7 @@ module.exports = {
         named: 'never',
         asyncArrow: 'never'
       }
-    ]
+    ],
+    semi: [2, 'always']
   }
 }
